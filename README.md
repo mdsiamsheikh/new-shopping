@@ -1,4 +1,4 @@
-# new-shopping-cart
+# New-shopping-cart
 
 ## Project setup
 ```
